@@ -1,0 +1,6 @@
+#Written by CorePropertiesLocator
+#Thu Mar 12 19:13:51 UTC 2015
+name=cmu
+config=solrconfig.xml
+schema=schema.xml
+dataDir=data
