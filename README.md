@@ -21,3 +21,6 @@ In home directory, use
 URL:
 
 	http://localhost:8983/solr/ 
+
+## Dynamic Search
+        Use "winwin" as request handler instead of "select"
