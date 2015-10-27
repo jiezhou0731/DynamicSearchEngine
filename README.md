@@ -2,6 +2,11 @@
 
 This dynamic search engine is based on Solr. It implements Winwin search alogrithm and QCM search algorithm.
 
+## Prerequisites
+
+ * JDK >= 1.8
+ * javac >= 1.8
+
 ## Setup
 In home directory, use
 
